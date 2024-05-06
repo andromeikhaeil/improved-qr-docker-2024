@@ -1,1 +1,1 @@
-<img src="desktop/QrCode.png"/>
+![QR Code](img/qr-code.png "Scan this QR code")
