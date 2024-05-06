@@ -1,1 +1,1 @@
-<img src="img/QrCode.png"/>
+<img src="desktop/QrCode.png"/>
